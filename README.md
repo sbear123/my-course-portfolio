@@ -15,4 +15,4 @@ Welcome to my academic portfolio for [CEP146_NCC]!
 - [ ] Collaborate on group projects
 
 ## Projects
-*This section will be updated as I complete assignments*# My Course Portfolio
+*This section will be updated as I complete assignments*
